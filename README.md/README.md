@@ -1,6 +1,6 @@
 # MICROSOFT MOVIE ANALYSIS
 
-![alt text](../visual_data/microsoft_logo.png)
+![microsoft_logo](../visual_data/microsoft_logo.png)
 
 ## Project overview
 In this project, i aimed to provide actionable insights for Microsoft's new movie studio by analyzing trends in the film industry. By conducting exploratory data analysis (EDA) on box office data, i seek to understand which types of films are currently performing the best and translate those findings into recommendations for the types of films Microsoft should consider creating.
